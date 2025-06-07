@@ -1,8 +1,6 @@
-`#000000`
-
 # Ryan Gelnett
 
-
+#00000
 
 ## Publications
 ### Preprints
