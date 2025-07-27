@@ -15,9 +15,9 @@ Email: `rgelnett@albany.edu`
 [Postcard](https://github.com/user-attachments/files/20640286/SRS.GGT.Postcard.pdf)
 
 ### Content:
-### [Teaching]
-### [Research]
-### [Publications]
+### [Teaching](-teaching)
+### [Research](-research)
+### [Publications](-publications)
 
 ## Teaching
 ### Multivarivable Calculus, Fall 2025, Section 4370 8:00am - 9:15am MWF in the Physics building, room 123.
@@ -26,6 +26,6 @@ Email: `rgelnett@albany.edu`
 ## Research
 ### Research interests
 
-## Publications
+##Publications
 ### Preprints
 #### [Configuration spaces of circles in the plane](https://arxiv.org/abs/2411.04800)  (with Justin Curry and Matthew Zaremsky)
