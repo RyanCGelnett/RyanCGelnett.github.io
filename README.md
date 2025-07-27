@@ -10,7 +10,7 @@ Email: `rgelnett@albany.edu`
 
 #### I am currently a PhD Candidate & Graduate Teaching Assistant at the [University at Albany](https://www.albany.edu/math).
 #### I recieved my Bachelor's from the [State University of New York at Oswego](https://ww1.oswego.edu/mathematics/).
-#### I grew up on the border of [Cleveland](https://en.wikipedia.org/wiki/Cleveland,_New_York) and [Vienna](https://en.wikipedia.org/wiki/Vienna,_New_York) New York, on [Onieda Lake](https://en.wikipedia.org/wiki/Oneida_Lake).
+#### I grew up on the border of [Cleveland](https://en.wikipedia.org/wiki/Cleveland,_New_York) New York, on [Onieda Lake](https://en.wikipedia.org/wiki/Oneida_Lake).
 
 [Postcard](https://github.com/user-attachments/files/20640286/SRS.GGT.Postcard.pdf)
 
