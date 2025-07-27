@@ -26,6 +26,6 @@ Email: `rgelnett@albany.edu`
 ## Research
 ### Research interests
 
-##Publications
+## Publications
 ### Preprints
 #### [Configuration spaces of circles in the plane](https://arxiv.org/abs/2411.04800)  (with Justin Curry and Matthew Zaremsky)
