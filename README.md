@@ -6,7 +6,7 @@ Email: `rgelnett@albany.edu`
 
 <img src="https://github.com/user-attachments/assets/1679ca29-0fd8-4e0c-9800-8c316830e30c" width="250">
 
-#### [CV](https://github.com/user-attachments/files/20640269/2025TexCV.pdf)
+#### [CV](https://github.com/user-attachments/files/23506398/2025TexCV.pdf)
 
 #### I am currently a PhD Candidate & Graduate Teaching Assistant at the [University at Albany](https://www.albany.edu/math).
 #### I recieved my Bachelor's from the [State University of New York at Oswego](https://ww1.oswego.edu/mathematics/).
@@ -16,3 +16,4 @@ Email: `rgelnett@albany.edu`
 
 ### Preprints
 #### [Configuration spaces of circles in the plane](https://arxiv.org/abs/2411.04800)  (with Justin Curry and Matthew Zaremsky, arXiv:2411.04800)
+
