@@ -17,7 +17,7 @@ Email: `rgelnett@albany.edu`
 ## Publications
 ### Preprints
 + #### *On spaces of embeddings of circles in surfaces*<br>
-  View on ***TBA*** (31 pages, 8 figures)
+  View on [arXiv:2601.12450](https://arxiv.org/abs/2601.12450) (31 pages, 8 figures)
 ### To appear
 + #### *Configuration spaces of circles in the plane* (with Justin Curry and Matthew Zaremsky) **J. Homotopy Relat. Struct.**<br>
   View on [arXiv:2411.04800](https://arxiv.org/abs/2411.04800) (28 pages, 13 figures)
