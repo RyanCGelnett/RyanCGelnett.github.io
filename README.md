@@ -14,6 +14,8 @@ Email: `rgelnett@albany.edu`
 
 [Postcard](https://github.com/user-attachments/files/20640286/SRS.GGT.Postcard.pdf)
 
+[Slides](https://github.com/user-attachments/files/25777370/UB.circle.in.surfaces.pdf)
+
 ## Publications
 ### Preprints
 + #### *On spaces of embeddings of circles in surfaces*<br>
