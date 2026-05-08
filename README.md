@@ -1,4 +1,4 @@
-#Ryan Gelnett
+# Ryan C. Gelnett
 
 Office: HD 268, 1400 Washington Avenue, Albany, NY 12222
 
