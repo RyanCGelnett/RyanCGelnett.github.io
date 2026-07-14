@@ -1,8 +1,6 @@
 # Ryan C. Gelnett
 
-**PhD Candidate & Graduate Teaching Assistant**
-Department of Mathematics and Statistics
-University at Albany, SUNY
+**PhD Candidate & Graduate Teaching Assistant**<br>Department of Mathematics and Statistics<br>University at Albany, SUNY
 
 📍 Office: HD 268, 1400 Washington Avenue, Albany, NY 12222
 📧 Email: `rgelnett at albany dot edu`
